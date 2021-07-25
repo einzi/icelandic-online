@@ -9,6 +9,9 @@ I grew tired of lack of ease of access to icelandic online material like diction
   * https://islenskordabok.arnastofnun.is/
 * https://snara.is/
 
+### Þýðing / Translation
+* https://velthyding.is/
+
 ### Talgerfill / Text-to-speech
 * https://ttsmp3.com/text-to-speech/Icelandic/
 

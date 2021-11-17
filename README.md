@@ -9,6 +9,9 @@ I grew tired of lack of ease of access to icelandic online material like diction
   * https://islenskordabok.arnastofnun.is/
 * https://snara.is/
 
+### Talgreining / Speech recognition
+* https://tal.tiro.is - Talgreinir sem snarar máli yfir á texta
+
 ### Þýðing / Translation
 * https://velthyding.is/
 
@@ -26,6 +29,8 @@ I grew tired of lack of ease of access to icelandic online material like diction
 * Hjal - http://www.malfong.is/index.php?lang=en&pg=hjal
 * Malromur - https://clarin.is/en/resources/malromur/
 * Orðabæklingar - https://www.facebook.com/groups/675238400020767
+* Samrómur - https://samromur.is/
+* Máltækni fyrir Íslensku 2018-2022 - https://www.stjornarradid.is/lisalib/getfile.aspx?itemid=56f6368e-54f0-11e7-941a-005056bc530c
 
 ### Önnur átök / Other projects
 * https://www.ms.is/okkar-mal/islenskuatak/ Átak MS
